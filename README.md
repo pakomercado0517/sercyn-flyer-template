@@ -1,9 +1,5 @@
-# React + Vite
+# Sercyn flyer template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Single App Application for a store that offers nautical tourist tour services, a simple app that only helps through a qr, the client reaches the page, sees the information of the services and can make contact to be able to hire someone who be of interest to you.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# sercyn-flyer-template
+Una Single App Aplication para una tienda que ofrece servicios de recorrido turísticos náuticos, una app simple que solo ayuda que atraves de un qr, el cliente llegue a la página, vea la información de los servicios y pueda hacer contacto para poder contratar a alguno que le sea de interes.
