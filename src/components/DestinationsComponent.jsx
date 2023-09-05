@@ -1,6 +1,5 @@
 import islaLobos from "../assets/islaLobos.webp";
 import arrecife from "../assets/arrecife.webp";
-import { Button } from "flowbite-react";
 
 function DestinationsComponent() {
   return (
@@ -41,7 +40,6 @@ function DestinationsComponent() {
             desde la cubierta de nuestro barco, cada momento en La Isla de Lobos
             es una experiencia inolvidable.
           </p>
-          <Button className="mt-4 mx-auto">Ver más imagenes</Button>
         </div>
       </article>
       <article
@@ -77,7 +75,6 @@ function DestinationsComponent() {
             peces de colores y las criaturas marinas únicas que habitan este
             ecosisitema diverso.
           </p>
-          <Button className="mt-4 mx-auto">Ver más Imagenes</Button>
         </div>
       </article>
     </section>
